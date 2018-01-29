@@ -1,0 +1,119 @@
+
+body {
+  font-family:DancingScript-Bold.ttf;
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+
+.colortext1{
+  color:#BC0003;
+  padding-left: 3px;
+font-size: 30px;
+
+  }
+  .colortext2{
+    color:white;
+    padding-left: 3px;
+  font-size: 20px;
+    }
+.img-favoritos {
+  margin: 0 auto;
+  width: 200px;
+  margin-top:3px;
+  padding: 3px;
+
+  }
+
+.img-contenido {
+  max-height: 100%;
+  width:100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.principal {
+  background: rgba(221, 141, 250, 0.9);
+  text-align: center;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.boton {
+  font-size: 16px;
+  border-color: black;
+  margin: 0 auto;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
+
+.lupa {
+    background-image: url("../img/lupa.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20px;
+    border-radius: 10px;
+    }
+
+.busqueda {
+  padding-top: 10px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin: 0 auto;
+}
+
+.contenedor1{
+  background-color: rgba(250, 141, 227, 0.8);
+  text-align: center;
+  margin: 0 auto;
+  width:100%;
+
+}
+
+.contenedor2{
+  background-color: rgba(231, 8, 93, 0.8);
+  text-align: center;
+  margin: 0 auto;
+  width:100%;
+
+}
+
+.list-group {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.titulo{
+  color: white;
+  padding-left: 5px;
+}
+.subtitulo {
+  color: #FF33E0;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+.contenido {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.form {
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
+
+.img-usuario {
+    width:70%;
+    height: 70%;
+    padding-left: 5px;
+    padding-right: 5px;
+  }

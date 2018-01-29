@@ -1,0 +1,84 @@
+body{
+  background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+nav{
+  height: 80px;
+}
+.logo {
+  height: 80px;
+  width: 120px;
+  margin-top: 5px;
+  padding-left: 10px;
+  float: left;
+  border-color: #fff;
+}
+.barranav {
+    padding-left: 200px;
+    }
+
+.slogan {
+  color:black;
+  font-size: 2px;
+  text-align: center;
+  }
+
+
+.redes-sociales {
+    padding: 0px;
+    float: left;
+    margin-top: 0px;
+
+    }
+
+.img-social{
+      width: 35px;
+      height: 35px;
+    }
+
+.img3{
+    height: 100%;
+    width: 100%;
+}
+
+.img-entrada{
+  padding-top: 10px;
+
+  }
+
+.title{
+  padding-top: 20px;
+  padding-left: 8px;
+}
+
+.contenido{
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+}
+
+.contenido2{
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+}
+
+.img-perfil{
+  padding-top: 10px;
+  width: 100%;
+  padding-left:
+  }
+
+  .title2{
+    padding-left: 8px;
+  }
+
+@media #{$medium-and-up}
+{
+background-attachment:fixed;
+}
